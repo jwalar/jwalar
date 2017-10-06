@@ -1,1 +1,1 @@
-# My presonal food blog!!
+# My personal food blog!!
